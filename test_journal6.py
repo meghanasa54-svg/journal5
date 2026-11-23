@@ -1,5 +1,5 @@
 
-from employee import employee_info
+from journal6 import employee_info
 
 def test_employee_info():
     result = employee_info("Rahul", 101, "HR", 25000)
